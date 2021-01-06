@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roberta Santos</h1>
 <h3 align="center">A passionate Business Analyst and Frontend developer from Brazil.</h3>
+<hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ladespistada1981&label=Profile%20views&color=0e75b6&style=flat" alt="ladespistada1981" /> </p>
 
