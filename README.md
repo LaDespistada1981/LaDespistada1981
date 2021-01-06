@@ -7,13 +7,9 @@
 
 - 🌱 I’m currently learning **JavaScript, NodeJS, SQL, NoSQL, Docker.**
 
-- 👯 I’m collaborate on [Projeto-Resilia-Modulo-01](https://github.com/araujo-gui/Projeto-Resilia-Modulo-01)
-
 - 💬 Ask me about **Agile, SCRUM, Kanban, HTML, CSS, Bootstrap.**
 
 - 📫 How to reach me **robertasantosrj@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/santosroberta/](https://www.linkedin.com/in/santosroberta/)
 
 - ⚡ Fun fact **I love music and I play ukulele in my free time.**
 
