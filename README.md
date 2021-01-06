@@ -33,7 +33,7 @@
 <hr>
 
 <p>
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ladespistada1981&show_icons=true&locale=en" alt="ladespistada1981" />
+&nbsp;
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ladespistada1981&" alt="ladespistada1981" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ladespistada1981&show_icons=true&locale=en&layout=compact" alt="ladespistada1981" />
 </p>
