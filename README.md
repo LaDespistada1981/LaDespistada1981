@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ladespistada1981&label=Profile%20views&color=0e75b6&style=flat" alt="ladespistada1981" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ladespistada1981" alt="ladespistada1981" /></a> </p>
-
 - 🔭 I’m currently working on [Projeto-Resilia-Modulo-2](https://github.com/LaDespistada1981/Projeto-Resilia-Modulo-2)
 
 - 🌱 I’m currently learning **JavaScript, NodeJS, SQL, NoSQL, Docker.**
