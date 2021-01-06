@@ -28,9 +28,8 @@
 <hr>
 
 <p align="center">
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ladespistada1981&" alt="ladespistada1981" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ladespistada1981&show_icons=true&locale=en&layout=compact" alt="ladespistada1981" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ladespistada1981&" alt="ladespistada1981" />
 </p>
 
 <hr>
