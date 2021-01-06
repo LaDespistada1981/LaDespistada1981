@@ -35,4 +35,4 @@
 
 - 📫 How to reach me **robertasantosrj@gmail.com**
 
-- ⚡ Fun fact **I love music and I play ukulele in my free time.**
+- ⚡ More about me **I love music and I play ukulele in my free time.**
