@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roberta Santos</h1>
-<h3 align="center">A passionate Business Analyst and Fullstack developer student from Brazil.</h3>
+<h3 align="center">Someone passionate about projects and technology </h3>
 
 <hr>
 
